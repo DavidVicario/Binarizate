@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //Al iniciar coloca un binario random.
+    //Al iniciar coloca un binario random
     @Override
     protected void onResume(){
         super.onResume();
